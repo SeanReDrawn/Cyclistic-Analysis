@@ -37,4 +37,4 @@ The R Markdown file (`Cyclistic_Analysis.Rmd`) includes:
 - **R Packages**: The R scripts use packages like `ggplot2`, `dplyr`, and `data.table`.
 
 ## Contact
-For any questions or contributions, please contact [Your Name] at [your.email@example.com].
+For any questions or contributions, please contact Sean Weissman.
