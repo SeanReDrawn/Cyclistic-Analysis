@@ -24,7 +24,7 @@ The R Markdown file (`Cyclistic_Analysis.Rmd`) includes:
 - **Recommendations**: Based on the analysis, actionable strategies for converting casual riders to members.
 
 ## How to Use
-1. **Clone the Repository**: Clone the repository to your local machine using `git clone <repository-url>`.
+1.  **Clone the Repository**: Clone the repository to your local machine using `git clone https://github.com/SeanReDrawn/Cyclistic-Analysis.git`.
 2. **Run SQL Queries**: Use a SQL editor like BigQuery to run the queries provided in the repository.
 3. **Run R Markdown**: Open the RMD file in RStudio and execute the chunks to reproduce the analysis and visualizations.
 
@@ -33,7 +33,7 @@ The R Markdown file (`Cyclistic_Analysis.Rmd`) includes:
 - **Next Steps**: Collect additional data, survey users, and refine strategies based on new insights.
 
 ## References
-- **Data Source**: The data used in this analysis is publicly available from [data source link].
+- **Data Source**: The data used in this analysis is publicly available from the [Divvy Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html).
 - **R Packages**: The R scripts use packages like `ggplot2`, `dplyr`, and `data.table`.
 
 ## Contact
